@@ -56,10 +56,3 @@ The system follows a structured approach:
 **Storage & Caching:**
 - Redis: Temporarily caches extracted content for quick access.
 - AWS S3: Stores parsed markdown files for long-term retrieval.
-
-## Submission Requirements
-- **GitHub Repository**
-  - Includes well-organized source code with documentation.
-  - Clear API documentation and implementation details.
-  - AIUseDisclosure.md outlining AI tools used.
-  - README.md with project overview and usage guide.
